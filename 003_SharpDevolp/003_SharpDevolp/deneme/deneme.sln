@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme.csproj", "{EB255052-3EF1-4A92-AF2F-8A453C9217F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "..\seriportcsharp\deneme\deneme.csproj", "{75911795-D9AB-4893-8969-CD2EB3E31770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB255052-3EF1-4A92-AF2F-8A453C9217F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB255052-3EF1-4A92-AF2F-8A453C9217F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB255052-3EF1-4A92-AF2F-8A453C9217F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB255052-3EF1-4A92-AF2F-8A453C9217F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75911795-D9AB-4893-8969-CD2EB3E31770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75911795-D9AB-4893-8969-CD2EB3E31770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75911795-D9AB-4893-8969-CD2EB3E31770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75911795-D9AB-4893-8969-CD2EB3E31770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
